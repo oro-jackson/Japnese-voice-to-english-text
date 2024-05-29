@@ -1,0 +1,4 @@
+Flask==2.0.2
+torch
+whisper
+googletrans==4.0.0-rc1
